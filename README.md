@@ -4,6 +4,8 @@ Hemos creado los componentes
 Los personajes 
 El nav
 footer
+data 
+data SouthPark
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
 
