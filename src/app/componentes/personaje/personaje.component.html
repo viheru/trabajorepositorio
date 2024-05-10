@@ -1,0 +1,22 @@
+@if (personaje) {
+    <div class="row my-3 justify-content-center align-items-center">
+        <button class="btn btn-info col-1" (click)="cambiarChar(personaje.id - 1)">Anterior</button>
+        <div class="col-3 my-3 mx-3">
+            <div class="card">
+                <div class="card-header bg-primary">
+                    <h5><strong>{{personaje.id}}. </strong> {{personaje.name}}</h5>
+                </div>
+                <img class="card-img-top" src="" alt="">
+                <div class="card-body">
+                    <p><strong>Genero: </strong>{{personaje.sex}}</p>
+                    <p><strong>Edad: </strong>{{personaje.age}}</p>
+                    <p><strong>Religion: </strong>{{personaje.religion}}</p>
+                </div>
+                <div class="card-footer">
+                    <p class="text-muted"><strong>Creacion: </strong>{{personaje.created_at}}</p>
+                </div>
+            </div>
+        </div>
+        <button class="btn btn-info col-1" (click)="cambiarChar(personaje.id + 1)">Siguiente</button>
+    </div>
+}
