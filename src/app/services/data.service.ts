@@ -7,7 +7,7 @@ import { Personaje } from '../common/data-south-park';
 @Injectable({
   providedIn: 'root'
 })
-export class DataService {
+export class DataServie {
 
   constructor(private http: HttpClient){
 
