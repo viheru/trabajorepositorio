@@ -2,6 +2,8 @@
 # diagrama 
 Hemos creado los componentes 
 Los personajes 
+El nav
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
 
