@@ -35,7 +35,7 @@ export interface DataSouthPark {
     sex: string;
     hair_color?: string;
     occupation?: string;
-    grade: string;
+    grade?: string;
     religion?: string;
     voiced_by?: any;
     created_at: string;
