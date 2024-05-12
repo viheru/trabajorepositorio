@@ -3,6 +3,8 @@
 Hemos creado los componentes 
 Creacion personajes en README
 creacion de nav
+creacion footer
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
