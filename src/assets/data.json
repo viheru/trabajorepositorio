@@ -1,0 +1,2050 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Gerald Broflovski",
+        "age": null,
+        "sex": "Male",
+        "hair_color": "Brown",
+        "occupation": "Lawyer",
+        "grade": null,
+        "religion": "Judaism",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:56.000000Z",
+        "updated_at": "2022-03-10T17:02:56.000000Z",
+        "family": "https://spapi.dev/api/families/1",
+        "img":"https://images.paramount.tech/path/mgid:file:gsp:entertainment-assets:/sps/shared/characters/adults/gerald-broflovski.png?",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/2",
+            "relation": "Husband"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/3",
+            "relation": "Father"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/4",
+            "relation": "Father"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/6",
+            "relation": "Son In-Law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/7",
+            "relation": "Brother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/8",
+            "relation": "Uncle"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/9",
+            "relation": "Grandfather"
+          }
+        ],
+        "episodes": [
+          "https://spapi.dev/api/episodes/9",
+          "https://spapi.dev/api/episodes/15",
+          "https://spapi.dev/api/episodes/16",
+          "https://spapi.dev/api/episodes/18",
+          "https://spapi.dev/api/episodes/20",
+          "https://spapi.dev/api/episodes/23",
+          "https://spapi.dev/api/episodes/26",
+          "https://spapi.dev/api/episodes/27",
+          "https://spapi.dev/api/episodes/29",
+          "https://spapi.dev/api/episodes/33",
+          "https://spapi.dev/api/episodes/35",
+          "https://spapi.dev/api/episodes/37",
+          "https://spapi.dev/api/episodes/39",
+          "https://spapi.dev/api/episodes/40",
+          "https://spapi.dev/api/episodes/41",
+          "https://spapi.dev/api/episodes/42",
+          "https://spapi.dev/api/episodes/43",
+          "https://spapi.dev/api/episodes/45",
+          "https://spapi.dev/api/episodes/46",
+          "https://spapi.dev/api/episodes/47",
+          "https://spapi.dev/api/episodes/49",
+          "https://spapi.dev/api/episodes/51",
+          "https://spapi.dev/api/episodes/52",
+          "https://spapi.dev/api/episodes/54",
+          "https://spapi.dev/api/episodes/55",
+          "https://spapi.dev/api/episodes/57",
+          "https://spapi.dev/api/episodes/58",
+          "https://spapi.dev/api/episodes/61",
+          "https://spapi.dev/api/episodes/64",
+          "https://spapi.dev/api/episodes/65",
+          "https://spapi.dev/api/episodes/66",
+          "https://spapi.dev/api/episodes/71",
+          "https://spapi.dev/api/episodes/72",
+          "https://spapi.dev/api/episodes/77",
+          "https://spapi.dev/api/episodes/78",
+          "https://spapi.dev/api/episodes/80",
+          "https://spapi.dev/api/episodes/81",
+          "https://spapi.dev/api/episodes/83",
+          "https://spapi.dev/api/episodes/84",
+          "https://spapi.dev/api/episodes/90",
+          "https://spapi.dev/api/episodes/91",
+          "https://spapi.dev/api/episodes/92",
+          "https://spapi.dev/api/episodes/93",
+          "https://spapi.dev/api/episodes/96",
+          "https://spapi.dev/api/episodes/98",
+          "https://spapi.dev/api/episodes/100",
+          "https://spapi.dev/api/episodes/103",
+          "https://spapi.dev/api/episodes/104",
+          "https://spapi.dev/api/episodes/105",
+          "https://spapi.dev/api/episodes/106",
+          "https://spapi.dev/api/episodes/109",
+          "https://spapi.dev/api/episodes/111",
+          "https://spapi.dev/api/episodes/112",
+          "https://spapi.dev/api/episodes/114",
+          "https://spapi.dev/api/episodes/117",
+          "https://spapi.dev/api/episodes/120",
+          "https://spapi.dev/api/episodes/126",
+          "https://spapi.dev/api/episodes/127",
+          "https://spapi.dev/api/episodes/130",
+          "https://spapi.dev/api/episodes/133",
+          "https://spapi.dev/api/episodes/140",
+          "https://spapi.dev/api/episodes/141",
+          "https://spapi.dev/api/episodes/142",
+          "https://spapi.dev/api/episodes/160",
+          "https://spapi.dev/api/episodes/161",
+          "https://spapi.dev/api/episodes/162",
+          "https://spapi.dev/api/episodes/163",
+          "https://spapi.dev/api/episodes/167",
+          "https://spapi.dev/api/episodes/169",
+          "https://spapi.dev/api/episodes/170",
+          "https://spapi.dev/api/episodes/173",
+          "https://spapi.dev/api/episodes/177",
+          "https://spapi.dev/api/episodes/179",
+          "https://spapi.dev/api/episodes/184",
+          "https://spapi.dev/api/episodes/185",
+          "https://spapi.dev/api/episodes/188",
+          "https://spapi.dev/api/episodes/189",
+          "https://spapi.dev/api/episodes/193",
+          "https://spapi.dev/api/episodes/197",
+          "https://spapi.dev/api/episodes/200",
+          "https://spapi.dev/api/episodes/204",
+          "https://spapi.dev/api/episodes/210",
+          "https://spapi.dev/api/episodes/216",
+          "https://spapi.dev/api/episodes/224",
+          "https://spapi.dev/api/episodes/232",
+          "https://spapi.dev/api/episodes/233",
+          "https://spapi.dev/api/episodes/239",
+          "https://spapi.dev/api/episodes/250",
+          "https://spapi.dev/api/episodes/251",
+          "https://spapi.dev/api/episodes/256",
+          "https://spapi.dev/api/episodes/258",
+          "https://spapi.dev/api/episodes/261",
+          "https://spapi.dev/api/episodes/263",
+          "https://spapi.dev/api/episodes/264",
+          "https://spapi.dev/api/episodes/265",
+          "https://spapi.dev/api/episodes/267",
+          "https://spapi.dev/api/episodes/268",
+          "https://spapi.dev/api/episodes/269",
+          "https://spapi.dev/api/episodes/270",
+          "https://spapi.dev/api/episodes/271",
+          "https://spapi.dev/api/episodes/272",
+          "https://spapi.dev/api/episodes/273",
+          "https://spapi.dev/api/episodes/274",
+          "https://spapi.dev/api/episodes/275",
+          "https://spapi.dev/api/episodes/276",
+          "https://spapi.dev/api/episodes/277",
+          "https://spapi.dev/api/episodes/283",
+          "https://spapi.dev/api/episodes/290",
+          "https://spapi.dev/api/episodes/292",
+          "https://spapi.dev/api/episodes/297",
+          "https://spapi.dev/api/episodes/298",
+          "https://spapi.dev/api/episodes/300",
+          "https://spapi.dev/api/episodes/301",
+          "https://spapi.dev/api/episodes/307",
+          "https://spapi.dev/api/episodes/308",
+          "https://spapi.dev/api/episodes/309"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Sheila Broflovski",
+        "age": null,
+        "sex": "Female",
+        "hair_color": "Red",
+        "occupation": "Frequent Protester",
+        "grade": null,
+        "religion": "Judaism",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:56.000000Z",
+        "updated_at": "2022-03-10T17:02:56.000000Z",
+        "url": "https://spapi.dev/api/characters/2",
+        "family": "https://spapi.dev/api/families/1",
+        "img":"https://images.paramount.tech/path/mgid:file:gsp:entertainment-assets:/sps/shared/characters/adults/sheila-broflovski.png?",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/1",
+            "relation": "Wife"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/3",
+            "relation": "Mother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/4",
+            "relation": "Mother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/6",
+            "relation": "Daughter"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/7",
+            "relation": "Sister In-Law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/8",
+            "relation": "Aunt"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/9",
+            "relation": "Grandmother"
+          }
+        ],
+        "episodes": [
+          "https://spapi.dev/api/episodes/6",
+          "https://spapi.dev/api/episodes/9",
+          "https://spapi.dev/api/episodes/12",
+          "https://spapi.dev/api/episodes/15",
+          "https://spapi.dev/api/episodes/16",
+          "https://spapi.dev/api/episodes/18",
+          "https://spapi.dev/api/episodes/20",
+          "https://spapi.dev/api/episodes/23",
+          "https://spapi.dev/api/episodes/26",
+          "https://spapi.dev/api/episodes/27",
+          "https://spapi.dev/api/episodes/29",
+          "https://spapi.dev/api/episodes/32",
+          "https://spapi.dev/api/episodes/33",
+          "https://spapi.dev/api/episodes/39",
+          "https://spapi.dev/api/episodes/40",
+          "https://spapi.dev/api/episodes/41",
+          "https://spapi.dev/api/episodes/42",
+          "https://spapi.dev/api/episodes/46",
+          "https://spapi.dev/api/episodes/51",
+          "https://spapi.dev/api/episodes/52",
+          "https://spapi.dev/api/episodes/54",
+          "https://spapi.dev/api/episodes/55",
+          "https://spapi.dev/api/episodes/57",
+          "https://spapi.dev/api/episodes/58",
+          "https://spapi.dev/api/episodes/61",
+          "https://spapi.dev/api/episodes/64",
+          "https://spapi.dev/api/episodes/65",
+          "https://spapi.dev/api/episodes/66",
+          "https://spapi.dev/api/episodes/67",
+          "https://spapi.dev/api/episodes/68",
+          "https://spapi.dev/api/episodes/71",
+          "https://spapi.dev/api/episodes/72",
+          "https://spapi.dev/api/episodes/76",
+          "https://spapi.dev/api/episodes/77",
+          "https://spapi.dev/api/episodes/78",
+          "https://spapi.dev/api/episodes/81",
+          "https://spapi.dev/api/episodes/83",
+          "https://spapi.dev/api/episodes/90",
+          "https://spapi.dev/api/episodes/91",
+          "https://spapi.dev/api/episodes/92",
+          "https://spapi.dev/api/episodes/93",
+          "https://spapi.dev/api/episodes/96",
+          "https://spapi.dev/api/episodes/103",
+          "https://spapi.dev/api/episodes/104",
+          "https://spapi.dev/api/episodes/107",
+          "https://spapi.dev/api/episodes/109",
+          "https://spapi.dev/api/episodes/111",
+          "https://spapi.dev/api/episodes/112",
+          "https://spapi.dev/api/episodes/114",
+          "https://spapi.dev/api/episodes/117",
+          "https://spapi.dev/api/episodes/120",
+          "https://spapi.dev/api/episodes/121",
+          "https://spapi.dev/api/episodes/126",
+          "https://spapi.dev/api/episodes/127",
+          "https://spapi.dev/api/episodes/130",
+          "https://spapi.dev/api/episodes/133",
+          "https://spapi.dev/api/episodes/138",
+          "https://spapi.dev/api/episodes/141",
+          "https://spapi.dev/api/episodes/142",
+          "https://spapi.dev/api/episodes/148",
+          "https://spapi.dev/api/episodes/149",
+          "https://spapi.dev/api/episodes/155",
+          "https://spapi.dev/api/episodes/161",
+          "https://spapi.dev/api/episodes/163",
+          "https://spapi.dev/api/episodes/167",
+          "https://spapi.dev/api/episodes/168",
+          "https://spapi.dev/api/episodes/169",
+          "https://spapi.dev/api/episodes/170",
+          "https://spapi.dev/api/episodes/173",
+          "https://spapi.dev/api/episodes/177",
+          "https://spapi.dev/api/episodes/184",
+          "https://spapi.dev/api/episodes/188",
+          "https://spapi.dev/api/episodes/189",
+          "https://spapi.dev/api/episodes/197",
+          "https://spapi.dev/api/episodes/200",
+          "https://spapi.dev/api/episodes/204",
+          "https://spapi.dev/api/episodes/209",
+          "https://spapi.dev/api/episodes/216",
+          "https://spapi.dev/api/episodes/224",
+          "https://spapi.dev/api/episodes/227",
+          "https://spapi.dev/api/episodes/233",
+          "https://spapi.dev/api/episodes/242",
+          "https://spapi.dev/api/episodes/243",
+          "https://spapi.dev/api/episodes/251",
+          "https://spapi.dev/api/episodes/257",
+          "https://spapi.dev/api/episodes/261",
+          "https://spapi.dev/api/episodes/269",
+          "https://spapi.dev/api/episodes/270",
+          "https://spapi.dev/api/episodes/271",
+          "https://spapi.dev/api/episodes/272",
+          "https://spapi.dev/api/episodes/274",
+          "https://spapi.dev/api/episodes/275",
+          "https://spapi.dev/api/episodes/276",
+          "https://spapi.dev/api/episodes/277",
+          "https://spapi.dev/api/episodes/287",
+          "https://spapi.dev/api/episodes/298",
+          "https://spapi.dev/api/episodes/300",
+          "https://spapi.dev/api/episodes/303",
+          "https://spapi.dev/api/episodes/305",
+          "https://spapi.dev/api/episodes/308"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Kyle Broflovski",
+        "age": 10,
+        "sex": "Male",
+        "hair_color": "Red",
+        "occupation": "Student",
+        "grade": "4th Grade",
+        "religion": "Judaism",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:56.000000Z",
+        "updated_at": "2022-03-10T17:02:56.000000Z",
+        "url": "https://spapi.dev/api/characters/3",
+        "family": "https://spapi.dev/api/families/1",
+        "img":"https://images.paramount.tech/path/mgid:file:gsp:entertainment-assets:/sps/shared/characters/kids/kyle-broflovski.png?",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/1",
+            "relation": "Son"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/2",
+            "relation": "Son"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/4",
+            "relation": "Brother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/6",
+            "relation": "Grandson"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/7",
+            "relation": "Nephew"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/8",
+            "relation": "Cousin"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/9",
+            "relation": "Father"
+          }
+        ],
+        "episodes": [
+          "https://spapi.dev/api/episodes/1",
+          "https://spapi.dev/api/episodes/2",
+          "https://spapi.dev/api/episodes/3",
+          "https://spapi.dev/api/episodes/4",
+          "https://spapi.dev/api/episodes/5",
+          "https://spapi.dev/api/episodes/6",
+          "https://spapi.dev/api/episodes/7",
+          "https://spapi.dev/api/episodes/8",
+          "https://spapi.dev/api/episodes/9",
+          "https://spapi.dev/api/episodes/10",
+          "https://spapi.dev/api/episodes/11",
+          "https://spapi.dev/api/episodes/12",
+          "https://spapi.dev/api/episodes/13",
+          "https://spapi.dev/api/episodes/15",
+          "https://spapi.dev/api/episodes/16",
+          "https://spapi.dev/api/episodes/17",
+          "https://spapi.dev/api/episodes/18",
+          "https://spapi.dev/api/episodes/19",
+          "https://spapi.dev/api/episodes/20",
+          "https://spapi.dev/api/episodes/21",
+          "https://spapi.dev/api/episodes/22",
+          "https://spapi.dev/api/episodes/23",
+          "https://spapi.dev/api/episodes/24",
+          "https://spapi.dev/api/episodes/25",
+          "https://spapi.dev/api/episodes/26",
+          "https://spapi.dev/api/episodes/27",
+          "https://spapi.dev/api/episodes/28",
+          "https://spapi.dev/api/episodes/29",
+          "https://spapi.dev/api/episodes/30",
+          "https://spapi.dev/api/episodes/31",
+          "https://spapi.dev/api/episodes/32",
+          "https://spapi.dev/api/episodes/33",
+          "https://spapi.dev/api/episodes/34",
+          "https://spapi.dev/api/episodes/35",
+          "https://spapi.dev/api/episodes/36",
+          "https://spapi.dev/api/episodes/37",
+          "https://spapi.dev/api/episodes/39",
+          "https://spapi.dev/api/episodes/40",
+          "https://spapi.dev/api/episodes/41",
+          "https://spapi.dev/api/episodes/42",
+          "https://spapi.dev/api/episodes/43",
+          "https://spapi.dev/api/episodes/44",
+          "https://spapi.dev/api/episodes/45",
+          "https://spapi.dev/api/episodes/46",
+          "https://spapi.dev/api/episodes/47",
+          "https://spapi.dev/api/episodes/48",
+          "https://spapi.dev/api/episodes/49",
+          "https://spapi.dev/api/episodes/50",
+          "https://spapi.dev/api/episodes/51",
+          "https://spapi.dev/api/episodes/52",
+          "https://spapi.dev/api/episodes/53",
+          "https://spapi.dev/api/episodes/54",
+          "https://spapi.dev/api/episodes/55",
+          "https://spapi.dev/api/episodes/56",
+          "https://spapi.dev/api/episodes/57",
+          "https://spapi.dev/api/episodes/58",
+          "https://spapi.dev/api/episodes/59",
+          "https://spapi.dev/api/episodes/60",
+          "https://spapi.dev/api/episodes/61",
+          "https://spapi.dev/api/episodes/63",
+          "https://spapi.dev/api/episodes/64",
+          "https://spapi.dev/api/episodes/65",
+          "https://spapi.dev/api/episodes/66",
+          "https://spapi.dev/api/episodes/68",
+          "https://spapi.dev/api/episodes/69",
+          "https://spapi.dev/api/episodes/70",
+          "https://spapi.dev/api/episodes/71",
+          "https://spapi.dev/api/episodes/72",
+          "https://spapi.dev/api/episodes/73",
+          "https://spapi.dev/api/episodes/74",
+          "https://spapi.dev/api/episodes/75",
+          "https://spapi.dev/api/episodes/76",
+          "https://spapi.dev/api/episodes/77",
+          "https://spapi.dev/api/episodes/78",
+          "https://spapi.dev/api/episodes/80",
+          "https://spapi.dev/api/episodes/81",
+          "https://spapi.dev/api/episodes/82",
+          "https://spapi.dev/api/episodes/83",
+          "https://spapi.dev/api/episodes/84",
+          "https://spapi.dev/api/episodes/85",
+          "https://spapi.dev/api/episodes/86",
+          "https://spapi.dev/api/episodes/87",
+          "https://spapi.dev/api/episodes/88",
+          "https://spapi.dev/api/episodes/89",
+          "https://spapi.dev/api/episodes/90",
+          "https://spapi.dev/api/episodes/91",
+          "https://spapi.dev/api/episodes/92",
+          "https://spapi.dev/api/episodes/93",
+          "https://spapi.dev/api/episodes/94",
+          "https://spapi.dev/api/episodes/95",
+          "https://spapi.dev/api/episodes/96",
+          "https://spapi.dev/api/episodes/97",
+          "https://spapi.dev/api/episodes/98",
+          "https://spapi.dev/api/episodes/99",
+          "https://spapi.dev/api/episodes/100",
+          "https://spapi.dev/api/episodes/101",
+          "https://spapi.dev/api/episodes/102",
+          "https://spapi.dev/api/episodes/103",
+          "https://spapi.dev/api/episodes/104",
+          "https://spapi.dev/api/episodes/105",
+          "https://spapi.dev/api/episodes/106",
+          "https://spapi.dev/api/episodes/107",
+          "https://spapi.dev/api/episodes/108",
+          "https://spapi.dev/api/episodes/109",
+          "https://spapi.dev/api/episodes/110",
+          "https://spapi.dev/api/episodes/111",
+          "https://spapi.dev/api/episodes/112",
+          "https://spapi.dev/api/episodes/113",
+          "https://spapi.dev/api/episodes/114",
+          "https://spapi.dev/api/episodes/115",
+          "https://spapi.dev/api/episodes/116",
+          "https://spapi.dev/api/episodes/117",
+          "https://spapi.dev/api/episodes/118",
+          "https://spapi.dev/api/episodes/119",
+          "https://spapi.dev/api/episodes/120",
+          "https://spapi.dev/api/episodes/121",
+          "https://spapi.dev/api/episodes/122",
+          "https://spapi.dev/api/episodes/123",
+          "https://spapi.dev/api/episodes/124",
+          "https://spapi.dev/api/episodes/125",
+          "https://spapi.dev/api/episodes/126",
+          "https://spapi.dev/api/episodes/127",
+          "https://spapi.dev/api/episodes/128",
+          "https://spapi.dev/api/episodes/129",
+          "https://spapi.dev/api/episodes/130",
+          "https://spapi.dev/api/episodes/131",
+          "https://spapi.dev/api/episodes/132",
+          "https://spapi.dev/api/episodes/133",
+          "https://spapi.dev/api/episodes/134",
+          "https://spapi.dev/api/episodes/135",
+          "https://spapi.dev/api/episodes/136",
+          "https://spapi.dev/api/episodes/137",
+          "https://spapi.dev/api/episodes/138",
+          "https://spapi.dev/api/episodes/139",
+          "https://spapi.dev/api/episodes/140",
+          "https://spapi.dev/api/episodes/141",
+          "https://spapi.dev/api/episodes/142",
+          "https://spapi.dev/api/episodes/143",
+          "https://spapi.dev/api/episodes/145",
+          "https://spapi.dev/api/episodes/146",
+          "https://spapi.dev/api/episodes/147",
+          "https://spapi.dev/api/episodes/148",
+          "https://spapi.dev/api/episodes/149",
+          "https://spapi.dev/api/episodes/150",
+          "https://spapi.dev/api/episodes/151",
+          "https://spapi.dev/api/episodes/152",
+          "https://spapi.dev/api/episodes/153",
+          "https://spapi.dev/api/episodes/154",
+          "https://spapi.dev/api/episodes/155",
+          "https://spapi.dev/api/episodes/156",
+          "https://spapi.dev/api/episodes/157",
+          "https://spapi.dev/api/episodes/158",
+          "https://spapi.dev/api/episodes/159",
+          "https://spapi.dev/api/episodes/160",
+          "https://spapi.dev/api/episodes/161",
+          "https://spapi.dev/api/episodes/163",
+          "https://spapi.dev/api/episodes/164",
+          "https://spapi.dev/api/episodes/165",
+          "https://spapi.dev/api/episodes/166",
+          "https://spapi.dev/api/episodes/167",
+          "https://spapi.dev/api/episodes/168",
+          "https://spapi.dev/api/episodes/169",
+          "https://spapi.dev/api/episodes/170",
+          "https://spapi.dev/api/episodes/171",
+          "https://spapi.dev/api/episodes/172",
+          "https://spapi.dev/api/episodes/173",
+          "https://spapi.dev/api/episodes/174",
+          "https://spapi.dev/api/episodes/175",
+          "https://spapi.dev/api/episodes/176",
+          "https://spapi.dev/api/episodes/177",
+          "https://spapi.dev/api/episodes/178",
+          "https://spapi.dev/api/episodes/179",
+          "https://spapi.dev/api/episodes/180",
+          "https://spapi.dev/api/episodes/181",
+          "https://spapi.dev/api/episodes/182",
+          "https://spapi.dev/api/episodes/183",
+          "https://spapi.dev/api/episodes/184",
+          "https://spapi.dev/api/episodes/185",
+          "https://spapi.dev/api/episodes/186",
+          "https://spapi.dev/api/episodes/188",
+          "https://spapi.dev/api/episodes/189",
+          "https://spapi.dev/api/episodes/190",
+          "https://spapi.dev/api/episodes/191",
+          "https://spapi.dev/api/episodes/192",
+          "https://spapi.dev/api/episodes/193",
+          "https://spapi.dev/api/episodes/194",
+          "https://spapi.dev/api/episodes/195",
+          "https://spapi.dev/api/episodes/196",
+          "https://spapi.dev/api/episodes/197",
+          "https://spapi.dev/api/episodes/198",
+          "https://spapi.dev/api/episodes/199",
+          "https://spapi.dev/api/episodes/200",
+          "https://spapi.dev/api/episodes/201",
+          "https://spapi.dev/api/episodes/202",
+          "https://spapi.dev/api/episodes/203",
+          "https://spapi.dev/api/episodes/204",
+          "https://spapi.dev/api/episodes/205",
+          "https://spapi.dev/api/episodes/206",
+          "https://spapi.dev/api/episodes/207",
+          "https://spapi.dev/api/episodes/208",
+          "https://spapi.dev/api/episodes/209",
+          "https://spapi.dev/api/episodes/210",
+          "https://spapi.dev/api/episodes/211",
+          "https://spapi.dev/api/episodes/212",
+          "https://spapi.dev/api/episodes/213",
+          "https://spapi.dev/api/episodes/214",
+          "https://spapi.dev/api/episodes/216",
+          "https://spapi.dev/api/episodes/217",
+          "https://spapi.dev/api/episodes/218",
+          "https://spapi.dev/api/episodes/219",
+          "https://spapi.dev/api/episodes/221",
+          "https://spapi.dev/api/episodes/222",
+          "https://spapi.dev/api/episodes/223",
+          "https://spapi.dev/api/episodes/224",
+          "https://spapi.dev/api/episodes/225",
+          "https://spapi.dev/api/episodes/226",
+          "https://spapi.dev/api/episodes/227",
+          "https://spapi.dev/api/episodes/228",
+          "https://spapi.dev/api/episodes/229",
+          "https://spapi.dev/api/episodes/230",
+          "https://spapi.dev/api/episodes/231",
+          "https://spapi.dev/api/episodes/232",
+          "https://spapi.dev/api/episodes/233",
+          "https://spapi.dev/api/episodes/234",
+          "https://spapi.dev/api/episodes/235",
+          "https://spapi.dev/api/episodes/236",
+          "https://spapi.dev/api/episodes/237",
+          "https://spapi.dev/api/episodes/238",
+          "https://spapi.dev/api/episodes/239",
+          "https://spapi.dev/api/episodes/240",
+          "https://spapi.dev/api/episodes/242",
+          "https://spapi.dev/api/episodes/243",
+          "https://spapi.dev/api/episodes/244",
+          "https://spapi.dev/api/episodes/245",
+          "https://spapi.dev/api/episodes/246",
+          "https://spapi.dev/api/episodes/247",
+          "https://spapi.dev/api/episodes/248",
+          "https://spapi.dev/api/episodes/249",
+          "https://spapi.dev/api/episodes/250",
+          "https://spapi.dev/api/episodes/252",
+          "https://spapi.dev/api/episodes/253",
+          "https://spapi.dev/api/episodes/254",
+          "https://spapi.dev/api/episodes/255",
+          "https://spapi.dev/api/episodes/256",
+          "https://spapi.dev/api/episodes/257",
+          "https://spapi.dev/api/episodes/258",
+          "https://spapi.dev/api/episodes/259",
+          "https://spapi.dev/api/episodes/260",
+          "https://spapi.dev/api/episodes/261",
+          "https://spapi.dev/api/episodes/262",
+          "https://spapi.dev/api/episodes/263",
+          "https://spapi.dev/api/episodes/264",
+          "https://spapi.dev/api/episodes/265",
+          "https://spapi.dev/api/episodes/266",
+          "https://spapi.dev/api/episodes/267",
+          "https://spapi.dev/api/episodes/268",
+          "https://spapi.dev/api/episodes/269",
+          "https://spapi.dev/api/episodes/270",
+          "https://spapi.dev/api/episodes/271",
+          "https://spapi.dev/api/episodes/272",
+          "https://spapi.dev/api/episodes/273",
+          "https://spapi.dev/api/episodes/274",
+          "https://spapi.dev/api/episodes/275",
+          "https://spapi.dev/api/episodes/276",
+          "https://spapi.dev/api/episodes/277",
+          "https://spapi.dev/api/episodes/278",
+          "https://spapi.dev/api/episodes/279",
+          "https://spapi.dev/api/episodes/280",
+          "https://spapi.dev/api/episodes/281",
+          "https://spapi.dev/api/episodes/282",
+          "https://spapi.dev/api/episodes/283",
+          "https://spapi.dev/api/episodes/284",
+          "https://spapi.dev/api/episodes/285",
+          "https://spapi.dev/api/episodes/286",
+          "https://spapi.dev/api/episodes/287",
+          "https://spapi.dev/api/episodes/288",
+          "https://spapi.dev/api/episodes/289",
+          "https://spapi.dev/api/episodes/290",
+          "https://spapi.dev/api/episodes/291",
+          "https://spapi.dev/api/episodes/292",
+          "https://spapi.dev/api/episodes/293",
+          "https://spapi.dev/api/episodes/294",
+          "https://spapi.dev/api/episodes/295",
+          "https://spapi.dev/api/episodes/296",
+          "https://spapi.dev/api/episodes/297",
+          "https://spapi.dev/api/episodes/298",
+          "https://spapi.dev/api/episodes/299",
+          "https://spapi.dev/api/episodes/300",
+          "https://spapi.dev/api/episodes/302",
+          "https://spapi.dev/api/episodes/303",
+          "https://spapi.dev/api/episodes/304",
+          "https://spapi.dev/api/episodes/305",
+          "https://spapi.dev/api/episodes/306",
+          "https://spapi.dev/api/episodes/307",
+          "https://spapi.dev/api/episodes/308",
+          "https://spapi.dev/api/episodes/309",
+          "https://spapi.dev/api/episodes/310",
+          "https://spapi.dev/api/episodes/311"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Ike Broflovski",
+        "age": 4,
+        "sex": "Male",
+        "hair_color": "Black",
+        "occupation": "Student",
+        "grade": "Kindergarten",
+        "religion": "Judaism",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:56.000000Z",
+        "updated_at": "2022-03-10T17:02:56.000000Z",
+        "url": "https://spapi.dev/api/characters/4",
+        "family": "https://spapi.dev/api/families/1",
+        "img":"https://images.paramount.tech/path/mgid:file:gsp:entertainment-assets:/sps/shared/characters/kids/ike-broflovski.png?",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/1",
+            "relation": "Adoptive Son"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/2",
+            "relation": "Adoptive Son"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/3",
+            "relation": "Adopted Brother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/6",
+            "relation": "Grandson"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/7",
+            "relation": "Nephew"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/8",
+            "relation": "Adoptive Cousin"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/9",
+            "relation": "Uncle"
+          }
+        ],
+        "episodes": [
+          "https://spapi.dev/api/episodes/1",
+          "https://spapi.dev/api/episodes/9",
+          "https://spapi.dev/api/episodes/12",
+          "https://spapi.dev/api/episodes/16",
+          "https://spapi.dev/api/episodes/23",
+          "https://spapi.dev/api/episodes/40",
+          "https://spapi.dev/api/episodes/42",
+          "https://spapi.dev/api/episodes/46",
+          "https://spapi.dev/api/episodes/47",
+          "https://spapi.dev/api/episodes/56",
+          "https://spapi.dev/api/episodes/57",
+          "https://spapi.dev/api/episodes/60",
+          "https://spapi.dev/api/episodes/61",
+          "https://spapi.dev/api/episodes/64",
+          "https://spapi.dev/api/episodes/65",
+          "https://spapi.dev/api/episodes/66",
+          "https://spapi.dev/api/episodes/68",
+          "https://spapi.dev/api/episodes/76",
+          "https://spapi.dev/api/episodes/81",
+          "https://spapi.dev/api/episodes/84",
+          "https://spapi.dev/api/episodes/97",
+          "https://spapi.dev/api/episodes/111",
+          "https://spapi.dev/api/episodes/126",
+          "https://spapi.dev/api/episodes/132",
+          "https://spapi.dev/api/episodes/142",
+          "https://spapi.dev/api/episodes/147",
+          "https://spapi.dev/api/episodes/149",
+          "https://spapi.dev/api/episodes/171",
+          "https://spapi.dev/api/episodes/176",
+          "https://spapi.dev/api/episodes/179",
+          "https://spapi.dev/api/episodes/188",
+          "https://spapi.dev/api/episodes/189",
+          "https://spapi.dev/api/episodes/193",
+          "https://spapi.dev/api/episodes/194",
+          "https://spapi.dev/api/episodes/204",
+          "https://spapi.dev/api/episodes/212",
+          "https://spapi.dev/api/episodes/233",
+          "https://spapi.dev/api/episodes/242",
+          "https://spapi.dev/api/episodes/256",
+          "https://spapi.dev/api/episodes/257",
+          "https://spapi.dev/api/episodes/270",
+          "https://spapi.dev/api/episodes/271",
+          "https://spapi.dev/api/episodes/274",
+          "https://spapi.dev/api/episodes/275",
+          "https://spapi.dev/api/episodes/276",
+          "https://spapi.dev/api/episodes/277",
+          "https://spapi.dev/api/episodes/278",
+          "https://spapi.dev/api/episodes/287",
+          "https://spapi.dev/api/episodes/291",
+          "https://spapi.dev/api/episodes/298",
+          "https://spapi.dev/api/episodes/305"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Kyle's Elephant",
+        "age": null,
+        "sex": "Male",
+        "hair_color": null,
+        "occupation": null,
+        "grade": null,
+        "religion": null,
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/5",
+        "family": "https://spapi.dev/api/families/1",
+        "img":"https://static.wikia.nocookie.net/southpark/images/6/60/Elephant.png/revision/latest?cb=20170620094219",
+        "relatives": [
+          
+        ],
+        "episodes": [
+          
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Cleo Broflovski",
+        "age": 71,
+        "sex": "Female",
+        "hair_color": "Gray",
+        "occupation": null,
+        "grade": null,
+        "religion": "Judaism",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/6",
+        "family": "https://spapi.dev/api/families/1",
+        "img":"data:image/jpeg;base64,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",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/1",
+            "relation": "Mother In-Law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/2",
+            "relation": "Mother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/3",
+            "relation": "Grandmother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/4",
+            "relation": "Grandmother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/8",
+            "relation": "Grandmother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/9",
+            "relation": "Great-Grandmother"
+          }
+        ],
+        "episodes": [
+          "https://spapi.dev/api/episodes/41"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Murrey Broflovski",
+        "age": null,
+        "sex": "Male",
+        "hair_color": "Gray",
+        "occupation": null,
+        "grade": null,
+        "religion": "Judaism",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/7",
+        "family": "https://spapi.dev/api/families/1",
+        "img":"https://images.paramount.tech/path/mgid:file:gsp:entertainment-assets:/sps/shared/characters/groups/main-families-murrey-brovflovski.png?height=165",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/1",
+            "relation": "Brother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/2",
+            "relation": "Brother In-Law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/3",
+            "relation": "Uncle"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/4",
+            "relation": "Uncle"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/9",
+            "relation": "Great-Uncle"
+          }
+        ],
+        "episodes": [
+          "https://spapi.dev/api/episodes/16"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Kyle Schwartz",
+        "age": 9,
+        "sex": "Male",
+        "hair_color": "Brown",
+        "occupation": "Student",
+        "grade": null,
+        "religion": "Judaism",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/8",
+        "family": "https://spapi.dev/api/families/1",
+        "img":"https://static.wikia.nocookie.net/southpark/images/3/3c/Kyle-schwartz.png/revision/latest?cb=20170907194703",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/1",
+            "relation": "Nephew"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/2",
+            "relation": "Nephew"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/3",
+            "relation": "Cousin"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/4",
+            "relation": "Cousin"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/6",
+            "relation": "Grandson"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/9",
+            "relation": "First Cousin Once Removed"
+          }
+        ],
+        "episodes": [
+          "https://spapi.dev/api/episodes/76",
+          "https://spapi.dev/api/episodes/96",
+          "https://spapi.dev/api/episodes/130"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Future Kyle's Kids",
+        "age": null,
+        "sex": "Male and Female",
+        "hair_color": "Red",
+        "occupation": null,
+        "grade": null,
+        "religion": "Judaism",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/9",
+        "family": "https://spapi.dev/api/families/1",
+        "img":"https://static.wikia.nocookie.net/southpark/images/4/46/Future_Kyle%27s_Kids.png/revision/latest?cb=20211216192851",
+        "relatives": [
+          
+        ],
+        "episodes": [
+          
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Liane Cartman",
+        "age": null,
+        "sex": "Female",
+        "hair_color": "Dark Brown",
+        "occupation": "Former Porn Queen",
+        "grade": null,
+        "religion": "Roman Catholic",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/10",
+        "family": "https://spapi.dev/api/families/2",
+        "img":"https://static.wikia.nocookie.net/southpark/images/f/fb/Liane_Cartman0.png/revision/latest?cb=20211125044926",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/11",
+            "relation": "Mother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/12",
+            "relation": "Owner"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/14",
+            "relation": "Granddaughter"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/15",
+            "relation": "Daughter"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/16",
+            "relation": "Daughter"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/17",
+            "relation": "Sister"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/18",
+            "relation": "Sister"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/19",
+            "relation": "Siblings-in-law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/21",
+            "relation": "Aunt"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/23",
+            "relation": "Aunt"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/25",
+            "relation": "Sister"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/169",
+            "relation": "Parental Lover"
+          }
+        ],
+        "episodes": [
+          "https://spapi.dev/api/episodes/1",
+          "https://spapi.dev/api/episodes/2",
+          "https://spapi.dev/api/episodes/3",
+          "https://spapi.dev/api/episodes/6",
+          "https://spapi.dev/api/episodes/8",
+          "https://spapi.dev/api/episodes/10",
+          "https://spapi.dev/api/episodes/13",
+          "https://spapi.dev/api/episodes/15",
+          "https://spapi.dev/api/episodes/20",
+          "https://spapi.dev/api/episodes/23",
+          "https://spapi.dev/api/episodes/24",
+          "https://spapi.dev/api/episodes/25",
+          "https://spapi.dev/api/episodes/29",
+          "https://spapi.dev/api/episodes/33",
+          "https://spapi.dev/api/episodes/34",
+          "https://spapi.dev/api/episodes/35",
+          "https://spapi.dev/api/episodes/38",
+          "https://spapi.dev/api/episodes/41",
+          "https://spapi.dev/api/episodes/42",
+          "https://spapi.dev/api/episodes/43",
+          "https://spapi.dev/api/episodes/49",
+          "https://spapi.dev/api/episodes/50",
+          "https://spapi.dev/api/episodes/51",
+          "https://spapi.dev/api/episodes/54",
+          "https://spapi.dev/api/episodes/56",
+          "https://spapi.dev/api/episodes/58",
+          "https://spapi.dev/api/episodes/60",
+          "https://spapi.dev/api/episodes/61",
+          "https://spapi.dev/api/episodes/63",
+          "https://spapi.dev/api/episodes/64",
+          "https://spapi.dev/api/episodes/71",
+          "https://spapi.dev/api/episodes/77",
+          "https://spapi.dev/api/episodes/78",
+          "https://spapi.dev/api/episodes/82",
+          "https://spapi.dev/api/episodes/83",
+          "https://spapi.dev/api/episodes/86",
+          "https://spapi.dev/api/episodes/89",
+          "https://spapi.dev/api/episodes/90",
+          "https://spapi.dev/api/episodes/91",
+          "https://spapi.dev/api/episodes/92",
+          "https://spapi.dev/api/episodes/93",
+          "https://spapi.dev/api/episodes/94",
+          "https://spapi.dev/api/episodes/98",
+          "https://spapi.dev/api/episodes/100",
+          "https://spapi.dev/api/episodes/101",
+          "https://spapi.dev/api/episodes/102",
+          "https://spapi.dev/api/episodes/109",
+          "https://spapi.dev/api/episodes/111",
+          "https://spapi.dev/api/episodes/113",
+          "https://spapi.dev/api/episodes/114",
+          "https://spapi.dev/api/episodes/116",
+          "https://spapi.dev/api/episodes/124",
+          "https://spapi.dev/api/episodes/129",
+          "https://spapi.dev/api/episodes/131",
+          "https://spapi.dev/api/episodes/132",
+          "https://spapi.dev/api/episodes/136",
+          "https://spapi.dev/api/episodes/146",
+          "https://spapi.dev/api/episodes/147",
+          "https://spapi.dev/api/episodes/151",
+          "https://spapi.dev/api/episodes/155",
+          "https://spapi.dev/api/episodes/161",
+          "https://spapi.dev/api/episodes/168",
+          "https://spapi.dev/api/episodes/175",
+          "https://spapi.dev/api/episodes/176",
+          "https://spapi.dev/api/episodes/181",
+          "https://spapi.dev/api/episodes/183",
+          "https://spapi.dev/api/episodes/198",
+          "https://spapi.dev/api/episodes/201",
+          "https://spapi.dev/api/episodes/206",
+          "https://spapi.dev/api/episodes/208",
+          "https://spapi.dev/api/episodes/210",
+          "https://spapi.dev/api/episodes/213",
+          "https://spapi.dev/api/episodes/216",
+          "https://spapi.dev/api/episodes/218",
+          "https://spapi.dev/api/episodes/221",
+          "https://spapi.dev/api/episodes/222",
+          "https://spapi.dev/api/episodes/223",
+          "https://spapi.dev/api/episodes/230",
+          "https://spapi.dev/api/episodes/233",
+          "https://spapi.dev/api/episodes/237",
+          "https://spapi.dev/api/episodes/238",
+          "https://spapi.dev/api/episodes/246",
+          "https://spapi.dev/api/episodes/254",
+          "https://spapi.dev/api/episodes/261",
+          "https://spapi.dev/api/episodes/263",
+          "https://spapi.dev/api/episodes/267",
+          "https://spapi.dev/api/episodes/278",
+          "https://spapi.dev/api/episodes/283",
+          "https://spapi.dev/api/episodes/284",
+          "https://spapi.dev/api/episodes/295",
+          "https://spapi.dev/api/episodes/296",
+          "https://spapi.dev/api/episodes/300",
+          "https://spapi.dev/api/episodes/307",
+          "https://spapi.dev/api/episodes/308",
+          "https://spapi.dev/api/episodes/310"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Eric Cartman",
+        "age": 10,
+        "sex": "Male",
+        "hair_color": "Brown",
+        "occupation": "Student",
+        "grade": "4th Grade",
+        "religion": "Roman Catholic",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/11",
+        "family": "https://spapi.dev/api/families/2",
+        "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsouthpark.fandom.com%2Fes%2Fwiki%2FEric_Cartman&psig=AOvVaw1fjp3eHRT-jF3qQAJaRhs1&ust=1715443801918000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjOkKa8g4YDFQAAAAAdAAAAABAD",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/10",
+            "relation": "Son"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/12",
+            "relation": "Owner"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/14",
+            "relation": "Great-Grandchild"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/15",
+            "relation": "Grandson"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/16",
+            "relation": "Grandson"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/17",
+            "relation": "Nephew"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/18",
+            "relation": "Nephew"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/19",
+            "relation": "Nephew"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/21",
+            "relation": "Cousin"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/22",
+            "relation": "Cousin"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/23",
+            "relation": "Cousin"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/25",
+            "relation": "Nephew"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/26",
+            "relation": "Husband"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/27",
+            "relation": "Father"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/28",
+            "relation": "Father"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/29",
+            "relation": "Father"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/169",
+            "relation": "Son"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/170",
+            "relation": "Stepson"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/171",
+            "relation": "Paternal half-brother"
+          }
+        ],
+        "episodes": [
+          "https://spapi.dev/api/episodes/1",
+          "https://spapi.dev/api/episodes/2",
+          "https://spapi.dev/api/episodes/3",
+          "https://spapi.dev/api/episodes/4",
+          "https://spapi.dev/api/episodes/5",
+          "https://spapi.dev/api/episodes/6",
+          "https://spapi.dev/api/episodes/7",
+          "https://spapi.dev/api/episodes/8",
+          "https://spapi.dev/api/episodes/9",
+          "https://spapi.dev/api/episodes/10",
+          "https://spapi.dev/api/episodes/11",
+          "https://spapi.dev/api/episodes/12",
+          "https://spapi.dev/api/episodes/13",
+          "https://spapi.dev/api/episodes/15",
+          "https://spapi.dev/api/episodes/16",
+          "https://spapi.dev/api/episodes/17",
+          "https://spapi.dev/api/episodes/18",
+          "https://spapi.dev/api/episodes/19",
+          "https://spapi.dev/api/episodes/20",
+          "https://spapi.dev/api/episodes/21",
+          "https://spapi.dev/api/episodes/22",
+          "https://spapi.dev/api/episodes/23",
+          "https://spapi.dev/api/episodes/24",
+          "https://spapi.dev/api/episodes/25",
+          "https://spapi.dev/api/episodes/26",
+          "https://spapi.dev/api/episodes/27",
+          "https://spapi.dev/api/episodes/28",
+          "https://spapi.dev/api/episodes/29",
+          "https://spapi.dev/api/episodes/30",
+          "https://spapi.dev/api/episodes/31",
+          "https://spapi.dev/api/episodes/32",
+          "https://spapi.dev/api/episodes/33",
+          "https://spapi.dev/api/episodes/34",
+          "https://spapi.dev/api/episodes/35",
+          "https://spapi.dev/api/episodes/36",
+          "https://spapi.dev/api/episodes/37",
+          "https://spapi.dev/api/episodes/38",
+          "https://spapi.dev/api/episodes/41",
+          "https://spapi.dev/api/episodes/42",
+          "https://spapi.dev/api/episodes/43",
+          "https://spapi.dev/api/episodes/44",
+          "https://spapi.dev/api/episodes/45",
+          "https://spapi.dev/api/episodes/46",
+          "https://spapi.dev/api/episodes/47",
+          "https://spapi.dev/api/episodes/48",
+          "https://spapi.dev/api/episodes/49",
+          "https://spapi.dev/api/episodes/50",
+          "https://spapi.dev/api/episodes/51",
+          "https://spapi.dev/api/episodes/52",
+          "https://spapi.dev/api/episodes/53",
+          "https://spapi.dev/api/episodes/54",
+          "https://spapi.dev/api/episodes/55",
+          "https://spapi.dev/api/episodes/56",
+          "https://spapi.dev/api/episodes/57",
+          "https://spapi.dev/api/episodes/58",
+          "https://spapi.dev/api/episodes/59",
+          "https://spapi.dev/api/episodes/60",
+          "https://spapi.dev/api/episodes/61",
+          "https://spapi.dev/api/episodes/63",
+          "https://spapi.dev/api/episodes/64",
+          "https://spapi.dev/api/episodes/65",
+          "https://spapi.dev/api/episodes/66",
+          "https://spapi.dev/api/episodes/67",
+          "https://spapi.dev/api/episodes/68",
+          "https://spapi.dev/api/episodes/69",
+          "https://spapi.dev/api/episodes/70",
+          "https://spapi.dev/api/episodes/71",
+          "https://spapi.dev/api/episodes/72",
+          "https://spapi.dev/api/episodes/73",
+          "https://spapi.dev/api/episodes/74",
+          "https://spapi.dev/api/episodes/75",
+          "https://spapi.dev/api/episodes/76",
+          "https://spapi.dev/api/episodes/77",
+          "https://spapi.dev/api/episodes/78",
+          "https://spapi.dev/api/episodes/79",
+          "https://spapi.dev/api/episodes/80",
+          "https://spapi.dev/api/episodes/81",
+          "https://spapi.dev/api/episodes/82",
+          "https://spapi.dev/api/episodes/83",
+          "https://spapi.dev/api/episodes/84",
+          "https://spapi.dev/api/episodes/85",
+          "https://spapi.dev/api/episodes/86",
+          "https://spapi.dev/api/episodes/87",
+          "https://spapi.dev/api/episodes/88",
+          "https://spapi.dev/api/episodes/89",
+          "https://spapi.dev/api/episodes/90",
+          "https://spapi.dev/api/episodes/91",
+          "https://spapi.dev/api/episodes/92",
+          "https://spapi.dev/api/episodes/93",
+          "https://spapi.dev/api/episodes/94",
+          "https://spapi.dev/api/episodes/95",
+          "https://spapi.dev/api/episodes/96",
+          "https://spapi.dev/api/episodes/97",
+          "https://spapi.dev/api/episodes/98",
+          "https://spapi.dev/api/episodes/99",
+          "https://spapi.dev/api/episodes/100",
+          "https://spapi.dev/api/episodes/101",
+          "https://spapi.dev/api/episodes/102",
+          "https://spapi.dev/api/episodes/103",
+          "https://spapi.dev/api/episodes/104",
+          "https://spapi.dev/api/episodes/105",
+          "https://spapi.dev/api/episodes/106",
+          "https://spapi.dev/api/episodes/107",
+          "https://spapi.dev/api/episodes/108",
+          "https://spapi.dev/api/episodes/109",
+          "https://spapi.dev/api/episodes/110",
+          "https://spapi.dev/api/episodes/111",
+          "https://spapi.dev/api/episodes/112",
+          "https://spapi.dev/api/episodes/113",
+          "https://spapi.dev/api/episodes/114",
+          "https://spapi.dev/api/episodes/115",
+          "https://spapi.dev/api/episodes/116",
+          "https://spapi.dev/api/episodes/117",
+          "https://spapi.dev/api/episodes/118",
+          "https://spapi.dev/api/episodes/119",
+          "https://spapi.dev/api/episodes/120",
+          "https://spapi.dev/api/episodes/121",
+          "https://spapi.dev/api/episodes/122",
+          "https://spapi.dev/api/episodes/123",
+          "https://spapi.dev/api/episodes/124",
+          "https://spapi.dev/api/episodes/125",
+          "https://spapi.dev/api/episodes/126",
+          "https://spapi.dev/api/episodes/127",
+          "https://spapi.dev/api/episodes/128",
+          "https://spapi.dev/api/episodes/129",
+          "https://spapi.dev/api/episodes/130",
+          "https://spapi.dev/api/episodes/131",
+          "https://spapi.dev/api/episodes/132",
+          "https://spapi.dev/api/episodes/133",
+          "https://spapi.dev/api/episodes/134",
+          "https://spapi.dev/api/episodes/135",
+          "https://spapi.dev/api/episodes/136",
+          "https://spapi.dev/api/episodes/137",
+          "https://spapi.dev/api/episodes/138",
+          "https://spapi.dev/api/episodes/139",
+          "https://spapi.dev/api/episodes/140",
+          "https://spapi.dev/api/episodes/141",
+          "https://spapi.dev/api/episodes/142",
+          "https://spapi.dev/api/episodes/143",
+          "https://spapi.dev/api/episodes/145",
+          "https://spapi.dev/api/episodes/146",
+          "https://spapi.dev/api/episodes/147",
+          "https://spapi.dev/api/episodes/148",
+          "https://spapi.dev/api/episodes/149",
+          "https://spapi.dev/api/episodes/150",
+          "https://spapi.dev/api/episodes/151",
+          "https://spapi.dev/api/episodes/152",
+          "https://spapi.dev/api/episodes/154",
+          "https://spapi.dev/api/episodes/155",
+          "https://spapi.dev/api/episodes/156",
+          "https://spapi.dev/api/episodes/157",
+          "https://spapi.dev/api/episodes/158",
+          "https://spapi.dev/api/episodes/159",
+          "https://spapi.dev/api/episodes/160",
+          "https://spapi.dev/api/episodes/161",
+          "https://spapi.dev/api/episodes/163",
+          "https://spapi.dev/api/episodes/164",
+          "https://spapi.dev/api/episodes/165",
+          "https://spapi.dev/api/episodes/166",
+          "https://spapi.dev/api/episodes/167",
+          "https://spapi.dev/api/episodes/168",
+          "https://spapi.dev/api/episodes/169",
+          "https://spapi.dev/api/episodes/170",
+          "https://spapi.dev/api/episodes/171",
+          "https://spapi.dev/api/episodes/172",
+          "https://spapi.dev/api/episodes/174",
+          "https://spapi.dev/api/episodes/175",
+          "https://spapi.dev/api/episodes/176",
+          "https://spapi.dev/api/episodes/177",
+          "https://spapi.dev/api/episodes/178",
+          "https://spapi.dev/api/episodes/179",
+          "https://spapi.dev/api/episodes/180",
+          "https://spapi.dev/api/episodes/181",
+          "https://spapi.dev/api/episodes/182",
+          "https://spapi.dev/api/episodes/183",
+          "https://spapi.dev/api/episodes/184",
+          "https://spapi.dev/api/episodes/185",
+          "https://spapi.dev/api/episodes/186",
+          "https://spapi.dev/api/episodes/188",
+          "https://spapi.dev/api/episodes/189",
+          "https://spapi.dev/api/episodes/190",
+          "https://spapi.dev/api/episodes/191",
+          "https://spapi.dev/api/episodes/192",
+          "https://spapi.dev/api/episodes/193",
+          "https://spapi.dev/api/episodes/194",
+          "https://spapi.dev/api/episodes/195",
+          "https://spapi.dev/api/episodes/196",
+          "https://spapi.dev/api/episodes/197",
+          "https://spapi.dev/api/episodes/198",
+          "https://spapi.dev/api/episodes/199",
+          "https://spapi.dev/api/episodes/200",
+          "https://spapi.dev/api/episodes/201",
+          "https://spapi.dev/api/episodes/202",
+          "https://spapi.dev/api/episodes/203",
+          "https://spapi.dev/api/episodes/204",
+          "https://spapi.dev/api/episodes/205",
+          "https://spapi.dev/api/episodes/206",
+          "https://spapi.dev/api/episodes/207",
+          "https://spapi.dev/api/episodes/208",
+          "https://spapi.dev/api/episodes/209",
+          "https://spapi.dev/api/episodes/210",
+          "https://spapi.dev/api/episodes/211",
+          "https://spapi.dev/api/episodes/212",
+          "https://spapi.dev/api/episodes/213",
+          "https://spapi.dev/api/episodes/214",
+          "https://spapi.dev/api/episodes/216",
+          "https://spapi.dev/api/episodes/217",
+          "https://spapi.dev/api/episodes/218",
+          "https://spapi.dev/api/episodes/219",
+          "https://spapi.dev/api/episodes/220",
+          "https://spapi.dev/api/episodes/221",
+          "https://spapi.dev/api/episodes/222",
+          "https://spapi.dev/api/episodes/223",
+          "https://spapi.dev/api/episodes/224",
+          "https://spapi.dev/api/episodes/225",
+          "https://spapi.dev/api/episodes/226",
+          "https://spapi.dev/api/episodes/227",
+          "https://spapi.dev/api/episodes/228",
+          "https://spapi.dev/api/episodes/229",
+          "https://spapi.dev/api/episodes/230",
+          "https://spapi.dev/api/episodes/231",
+          "https://spapi.dev/api/episodes/232",
+          "https://spapi.dev/api/episodes/233",
+          "https://spapi.dev/api/episodes/234",
+          "https://spapi.dev/api/episodes/235",
+          "https://spapi.dev/api/episodes/236",
+          "https://spapi.dev/api/episodes/237",
+          "https://spapi.dev/api/episodes/238",
+          "https://spapi.dev/api/episodes/239",
+          "https://spapi.dev/api/episodes/240",
+          "https://spapi.dev/api/episodes/242",
+          "https://spapi.dev/api/episodes/243",
+          "https://spapi.dev/api/episodes/244",
+          "https://spapi.dev/api/episodes/245",
+          "https://spapi.dev/api/episodes/246",
+          "https://spapi.dev/api/episodes/247",
+          "https://spapi.dev/api/episodes/248",
+          "https://spapi.dev/api/episodes/249",
+          "https://spapi.dev/api/episodes/250",
+          "https://spapi.dev/api/episodes/252",
+          "https://spapi.dev/api/episodes/253",
+          "https://spapi.dev/api/episodes/254",
+          "https://spapi.dev/api/episodes/255",
+          "https://spapi.dev/api/episodes/256",
+          "https://spapi.dev/api/episodes/257",
+          "https://spapi.dev/api/episodes/258",
+          "https://spapi.dev/api/episodes/259",
+          "https://spapi.dev/api/episodes/260",
+          "https://spapi.dev/api/episodes/261",
+          "https://spapi.dev/api/episodes/262",
+          "https://spapi.dev/api/episodes/263",
+          "https://spapi.dev/api/episodes/264",
+          "https://spapi.dev/api/episodes/266",
+          "https://spapi.dev/api/episodes/267",
+          "https://spapi.dev/api/episodes/268",
+          "https://spapi.dev/api/episodes/269",
+          "https://spapi.dev/api/episodes/270",
+          "https://spapi.dev/api/episodes/271",
+          "https://spapi.dev/api/episodes/272",
+          "https://spapi.dev/api/episodes/273",
+          "https://spapi.dev/api/episodes/274",
+          "https://spapi.dev/api/episodes/275",
+          "https://spapi.dev/api/episodes/276",
+          "https://spapi.dev/api/episodes/277",
+          "https://spapi.dev/api/episodes/278",
+          "https://spapi.dev/api/episodes/279",
+          "https://spapi.dev/api/episodes/280",
+          "https://spapi.dev/api/episodes/281",
+          "https://spapi.dev/api/episodes/282",
+          "https://spapi.dev/api/episodes/283",
+          "https://spapi.dev/api/episodes/284",
+          "https://spapi.dev/api/episodes/285",
+          "https://spapi.dev/api/episodes/286",
+          "https://spapi.dev/api/episodes/287",
+          "https://spapi.dev/api/episodes/288",
+          "https://spapi.dev/api/episodes/289",
+          "https://spapi.dev/api/episodes/290",
+          "https://spapi.dev/api/episodes/291",
+          "https://spapi.dev/api/episodes/292",
+          "https://spapi.dev/api/episodes/293",
+          "https://spapi.dev/api/episodes/294",
+          "https://spapi.dev/api/episodes/295",
+          "https://spapi.dev/api/episodes/296",
+          "https://spapi.dev/api/episodes/297",
+          "https://spapi.dev/api/episodes/298",
+          "https://spapi.dev/api/episodes/299",
+          "https://spapi.dev/api/episodes/300",
+          "https://spapi.dev/api/episodes/301",
+          "https://spapi.dev/api/episodes/302",
+          "https://spapi.dev/api/episodes/303",
+          "https://spapi.dev/api/episodes/304",
+          "https://spapi.dev/api/episodes/305",
+          "https://spapi.dev/api/episodes/306",
+          "https://spapi.dev/api/episodes/307",
+          "https://spapi.dev/api/episodes/308",
+          "https://spapi.dev/api/episodes/309",
+          "https://spapi.dev/api/episodes/310",
+          "https://spapi.dev/api/episodes/311"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Mr. Kitty",
+        "age": null,
+        "sex": "Hermaphrodite/Intersex",
+        "hair_color": "Gray",
+        "occupation": null,
+        "grade": null,
+        "religion": null,
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/12",
+        "family": "https://spapi.dev/api/families/2",
+        "img":"https://static.wikia.nocookie.net/southpark/images/2/2b/MrKitty.png/revision/latest?cb=20150131115201",
+        "relatives": [
+          
+        ],
+        "episodes": [
+          "https://spapi.dev/api/episodes/1",
+          "https://spapi.dev/api/episodes/38",
+          "https://spapi.dev/api/episodes/42",
+          "https://spapi.dev/api/episodes/170",
+          "https://spapi.dev/api/episodes/226"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Fluffy",
+        "age": null,
+        "sex": "Female",
+        "hair_color": null,
+        "occupation": null,
+        "grade": null,
+        "religion": null,
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/13",
+        "family": "https://spapi.dev/api/families/2",
+        "img":"data:image/jpeg;base64,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",
+        "relatives": [
+          
+        ],
+        "episodes": [
+          
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Florence Cartman",
+        "age": null,
+        "sex": "Female",
+        "hair_color": "White",
+        "occupation": null,
+        "grade": null,
+        "religion": "Roman Catholic",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/14",
+        "family": "https://spapi.dev/api/families/2",
+        "img":"https://static.wikia.nocookie.net/southpark/images/6/6e/Florence-cartman.png/revision/latest?cb=20170317040658",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/10",
+            "relation": "Grandmother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/11",
+            "relation": "Great-grandmother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/15",
+            "relation": "Mother-in-Law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/16",
+            "relation": "Mother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/17",
+            "relation": "Grandmother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/18",
+            "relation": "Grandmother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/19",
+            "relation": "Grandmother-in-law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/21",
+            "relation": "Great-grandmother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/22",
+            "relation": "great grandmother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/23",
+            "relation": "Great-grandmother"
+          }
+        ],
+        "episodes": [
+          
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Harold Cartman",
+        "age": null,
+        "sex": "Male",
+        "hair_color": "Gray",
+        "occupation": null,
+        "grade": null,
+        "religion": null,
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/15",
+        "family": "https://spapi.dev/api/families/2",
+        "img":"https://static.wikia.nocookie.net/southpark/images/1/10/Harold-cartman.png/revision/latest?cb=20170317040658",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/10",
+            "relation": "Father"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/11",
+            "relation": "Grandfather"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/14",
+            "relation": "Son-in-Law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/16",
+            "relation": "Husband"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/17",
+            "relation": "Father"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/18",
+            "relation": "Father"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/19",
+            "relation": "Father-in-law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/21",
+            "relation": "Grandfather"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/22",
+            "relation": "Grandfather"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/23",
+            "relation": "Grandfather"
+          }
+        ],
+        "episodes": [
+          
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Mabel Cartman",
+        "age": null,
+        "sex": "Female",
+        "hair_color": "Gray",
+        "occupation": null,
+        "grade": null,
+        "religion": "Roman Catholic",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/16",
+        "family": "https://spapi.dev/api/families/2",
+        "img":"https://static.wikia.nocookie.net/southpark/images/e/ec/Mabel-cartman.png/revision/latest?cb=20170317040708",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/10",
+            "relation": "Mother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/11",
+            "relation": "Grandmother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/14",
+            "relation": "Daughter"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/15",
+            "relation": "Wife"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/17",
+            "relation": "Mother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/18",
+            "relation": "Mother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/19",
+            "relation": "Mother-in-law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/21",
+            "relation": "Grandmother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/22",
+            "relation": "Grandmother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/23",
+            "relation": "Grandmother"
+          }
+        ],
+        "episodes": [
+          
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Howard Cartman",
+        "age": null,
+        "sex": "Male",
+        "hair_color": "Brown",
+        "occupation": null,
+        "grade": null,
+        "religion": "Roman Catholic",
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/17",
+        "family": "https://spapi.dev/api/families/2",
+        "img":"data:image/jpeg;base64,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",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/10",
+            "relation": "Brother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/11",
+            "relation": "Uncle"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/14",
+            "relation": "Grandson"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/15",
+            "relation": "Son"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/16",
+            "relation": "Son"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/18",
+            "relation": "Brother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/19",
+            "relation": "Siblings-in-law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/21",
+            "relation": "Uncle"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/22",
+            "relation": "Uncle"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/23",
+            "relation": "Uncle"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/25",
+            "relation": "Brothers-in-law"
+          }
+        ],
+        "episodes": [
+          
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Uncle Stinky",
+        "age": null,
+        "sex": "Male",
+        "hair_color": "Brown",
+        "occupation": null,
+        "grade": null,
+        "religion": null,
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/18",
+        "family": "https://spapi.dev/api/families/2",
+        "img":"https://static.wikia.nocookie.net/southpark/images/1/12/Uncle-stinky.png/revision/latest?cb=20170707114631",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/10",
+            "relation": "Brother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/11",
+            "relation": "Uncle"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/14",
+            "relation": "Grandson"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/15",
+            "relation": "Son"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/16",
+            "relation": "Son"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/17",
+            "relation": "Brother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/19",
+            "relation": "Husband"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/21",
+            "relation": "Uncle"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/22",
+            "relation": "Father"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/23",
+            "relation": "Father"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/25",
+            "relation": "Brothers-in-law"
+          }
+        ],
+        "episodes": [
+          "https://spapi.dev/api/episodes/29",
+          "https://spapi.dev/api/episodes/71"
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Lisa Cartman",
+        "age": null,
+        "sex": "Female",
+        "hair_color": "Red",
+        "occupation": null,
+        "grade": null,
+        "religion": null,
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:57.000000Z",
+        "updated_at": "2022-03-10T17:02:57.000000Z",
+        "url": "https://spapi.dev/api/characters/19",
+        "family": "https://spapi.dev/api/families/2",
+        "img":"https://static.wikia.nocookie.net/southpark/images/9/9a/LisaCartman.png/revision/latest/scale-to-width/360?cb=20140715234411",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/10",
+            "relation": "Sister-in-law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/11",
+            "relation": "Aunt"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/18",
+            "relation": "Wife"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/21",
+            "relation": "Aunt"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/22",
+            "relation": "Mother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/23",
+            "relation": "Mother"
+          }
+        ],
+        "episodes": [
+          
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Fat Bob",
+        "age": null,
+        "sex": "Male",
+        "hair_color": "Brown",
+        "occupation": null,
+        "grade": null,
+        "religion": null,
+        "voiced_by": null,
+        "created_at": "2022-03-10T17:02:58.000000Z",
+        "updated_at": "2022-03-10T17:02:58.000000Z",
+        "url": "https://spapi.dev/api/characters/20",
+        "family": "https://spapi.dev/api/families/2",
+        "img":"https://static.wikia.nocookie.net/southpark/images/4/4e/Fatbob-cartman.png/revision/latest?cb=20170806130705",
+        "relatives": [
+          {
+            "url": "https://spapi.dev/api/characters/10",
+            "relation": "Brother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/14",
+            "relation": "Grandson"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/15",
+            "relation": "Son"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/16",
+            "relation": "Son"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/18",
+            "relation": "Brother"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/19",
+            "relation": "Siblings-in-law"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/21",
+            "relation": "Uncle"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/23",
+            "relation": "Uncle"
+          },
+          {
+            "url": "https://spapi.dev/api/characters/25",
+            "relation": "Brothers-in-law"
+          }
+        ],
+        "episodes": [
+          
+        ]
+      }
+    ],
+    "links": {
+      "first": "https://spapi.dev/api/characters?page=1",
+      "last": "https://spapi.dev/api/characters?page=22",
+      "prev": null,
+      "next": "https://spapi.dev/api/characters?page=2"
+    },
+    "meta": {
+      "current_page": 1,
+      "from": 1,
+      "last_page": 22,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Previous",
+          "active": false
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=1",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=2",
+          "label": "2",
+          "active": false
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=3",
+          "label": "3",
+          "active": false
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=4",
+          "label": "4",
+          "active": false
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=5",
+          "label": "5",
+          "active": false
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=6",
+          "label": "6",
+          "active": false
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=7",
+          "label": "7",
+          "active": false
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=8",
+          "label": "8",
+          "active": false
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=9",
+          "label": "9",
+          "active": false
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=10",
+          "label": "10",
+          "active": false
+        },
+        {
+          "url": null,
+          "label": "...",
+          "active": false
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=21",
+          "label": "21",
+          "active": false
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=22",
+          "label": "22",
+          "active": false
+        },
+        {
+          "url": "https://spapi.dev/api/characters?page=2",
+          "label": "Next &raquo;",
+          "active": false
+        }
+      ],
+      "path": "https://spapi.dev/api/characters",
+      "per_page": 10,
+      "to": 10,
+      "total": 212
+    }
+  }
