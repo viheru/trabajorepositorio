@@ -4,6 +4,7 @@ Hemos creado los componentes
 Creacion personajes en README
 creacion de nav
 creacion footer
+creacion southPark
 
 
 
