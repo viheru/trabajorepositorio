@@ -10,7 +10,7 @@ import { Personaje } from '../common/data-south-park';
 export class DataService {
 
   constructor(private http: HttpClient){
-
+    
   }
 
   loadSouthPark(): Observable<DataSouthPark> {
@@ -20,4 +20,9 @@ export class DataService {
  loadChar(id: string): Observable<Personaje> {
    return this.http.get<Personaje>("https://spapi.dev/api/characters/" + id);
  }  
+ 
+ loadPag(pag: string): Observable<Personaje> {
+  return this.http.get<Personaje>(pag);
+
+} 
 }
