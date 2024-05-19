@@ -1,6 +1,11 @@
 # TrabajoFinalAngular
 # diagrama 
 Hemos creado los componentes 
+Los personajes 
+El nav
+footer
+data 
+data SouthPark
 Creacion personajes en README
 creacion de nav
 creacion footer
